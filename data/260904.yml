@@ -7,7 +7,7 @@ about:
   head: db76170
   archived: false
   latestVersion: v0.17.3
-  collectedAt: 2026-09-04T19:53:47Z
+  collectedAt: 2026-09-04T20:46:53Z
 timeline:
   created: 2019-10-17
   lastCommit: 2026-08-27
@@ -82,5 +82,48 @@ total:
   openIssue: 0
   commit: 162
 ---
+path: /home/runner/.x-repo/github.com/dkorunic/iSMC
+collectedAt: 2026-09-04T20:46:54Z
+loc:
+  Go:
+    code: 7318
+    comments: 1393
+    blanks: 1279
+    files: 46
+  C:
+    code: 212
+    comments: 101
+    blanks: 62
+    files: 1
+  CHeader:
+    code: 92
+    comments: 21
+    blanks: 19
+    files: 1
+  Yaml:
+    code: 62
+    comments: 0
+    blanks: 12
+    files: 1
+  Sh:
+    code: 43
+    comments: 1
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 205
+    blanks: 100
+    files: 4
+  Text:
+    code: 0
+    comments: 8530
+    blanks: 0
+    files: 32
+total:
+  code: 7790
+  comments: 10257
+  blanks: 1481
+  files: 86
 ---
 
