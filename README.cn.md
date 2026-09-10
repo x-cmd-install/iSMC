@@ -4,13 +4,25 @@
 
 Apple SMC CLI — decode temperature, fans, battery, power, voltage and current on macOS
 
-![iSMC](https://repo.x-cmd.io/iSMC.svg)
+![iSMC](https://repo.x-cmd.io/iSMC.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install iSMC
 ```
+
+## 代码洞察
+
+合计: **7,727** 行代码（覆盖前 5 种语言、共 **50** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 7,318 | 1,393 | 1,279 | 46 |
+| C | 212 | 101 | 62 | 1 |
+| CHeader | 92 | 21 | 19 | 1 |
+| Yaml | 62 | 0 | 12 | 1 |
+| Sh | 43 | 1 | 4 | 1 |
 
 ## 源代码
 
@@ -22,7 +34,6 @@ x install iSMC
 - **最新版本**: `v0.17.3` (2026-08-27)
 - **最近提交**: 2026-08-27
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-08-27T12:44:46Z
 
 ## 流行度
 
@@ -37,20 +48,18 @@ x install iSMC
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-12 | 4 | 2 | 0 | 3 | 0 | 15 |
 | 90d | 2026-06-12 | 6 | 2 | 0 | 4 | 0 | 17 |
+| last180d | 2026-03-14 | 24 | 2 | 0 | 7 | 0 | 83 |
 | 360d | 2025-09-15 | 28 | 3 | 0 | 12 | 0 | 109 |
+| last720d | 2024-09-20 | 35 | 3 | 0 | 15 | 0 | 119 |
 
-## 代码规模
+## Release 资产
 
-合计: **7,727** 行代码（覆盖前 5 种语言、共 **50** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 7,318 | 1,393 | 1,279 | 46 |
-| C | 212 | 101 | 62 | 1 |
-| CHeader | 92 | 21 | 19 | 1 |
-| Yaml | 62 | 0 | 12 | 1 |
-| Sh | 43 | 1 | 4 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/dkorunic/iSMC/releases/download/v0.17.3/checksums.txt) | 89 B | `other` |
+| [iSMC_Darwin_all.tar.gz](https://github.com/dkorunic/iSMC/releases/download/v0.17.3/iSMC_Darwin_all.tar.gz) | 3.3 MiB | `native/darwin/x64` |
 
 ## 改进这些数据
 
@@ -61,4 +70,4 @@ iSMC 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:13:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:56:05Z._
