@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3424021,
       "digest": "sha256:26731a55da863c64f780304e30ba7e5045e6c5f7997739ebe11bd4892b4e6958",
-      "download_count": 270,
+      "download_count": 277,
       "created_at": "2026-08-27T12:44:45Z",
       "updated_at": "2026-08-27T12:44:45Z",
       "browser_download_url": "https://github.com/dkorunic/iSMC/releases/download/v0.17.3/iSMC_Darwin_all.tar.gz"
