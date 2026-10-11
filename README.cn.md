@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Apple SMC CLI — decode temperature, fans, battery, power, voltage and current on macOS
+Apple SMC CLI for macOS — temperature, fan, battery, power, voltage and current sensors on Intel and Apple Silicon (M1–M5), with table, JSON and InfluxDB output
 
 [![x-cmd/install — iSMC Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/iSMC.svg?lang=zh)](https://x-cmd.com/install/iSMC)
 
@@ -14,14 +14,14 @@ x install iSMC
 
 ## 代码洞察
 
-合计: **7,727** 行代码（覆盖前 5 种语言、共 **50** 个文件）。
+合计: **7,728** 行代码（覆盖前 5 种语言、共 **50** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Go | 7,318 | 1,393 | 1,279 | 46 |
 | C | 212 | 101 | 62 | 1 |
 | CHeader | 92 | 21 | 19 | 1 |
-| Yaml | 62 | 0 | 12 | 1 |
+| Yaml | 63 | 0 | 12 | 1 |
 | Sh | 43 | 1 | 4 | 1 |
 
 ## 源代码
@@ -31,8 +31,8 @@ x install iSMC
 
 ## 发布
 
-- **最新版本**: `v0.17.3` (2026-08-27)
-- **最近提交**: 2026-08-27
+- **最新版本**: `v0.17.4` (2026-10-10)
+- **最近提交**: 2026-10-10
 - **Release 含资产**: 2 个
 
 ## 流行度
@@ -41,25 +41,25 @@ x install iSMC
 
 ## 累计统计
 
-- **发布数**: 53 · **已合并 PR**: 10 · **开放 PR**: 0 · **已关闭 issue**: 30 · **开放 issue**: 0 · **提交数**: 162
+- **发布数**: 54 · **已合并 PR**: 10 · **开放 PR**: 0 · **已关闭 issue**: 30 · **开放 issue**: 0 · **提交数**: 163
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-12 | 4 | 2 | 0 | 3 | 0 | 15 |
-| last180d | 2026-04-13 | 17 | 2 | 0 | 6 | 0 | 45 |
-| 360d | 2025-10-15 | 27 | 3 | 0 | 11 | 0 | 107 |
-| last720d | 2024-10-20 | 34 | 3 | 0 | 14 | 0 | 118 |
+| 30d | 2026-09-11 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-12 | 2 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-13 | 5 | 2 | 0 | 3 | 0 | 16 |
+| last180d | 2026-04-14 | 17 | 2 | 0 | 6 | 0 | 38 |
+| 360d | 2025-10-16 | 28 | 3 | 0 | 11 | 0 | 108 |
+| last720d | 2024-10-21 | 35 | 3 | 0 | 14 | 0 | 119 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/dkorunic/iSMC/releases/download/v0.17.3/checksums.txt) | 89 B | `other` |
-| [iSMC_Darwin_all.tar.gz](https://github.com/dkorunic/iSMC/releases/download/v0.17.3/iSMC_Darwin_all.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [checksums.txt](https://github.com/dkorunic/iSMC/releases/download/v0.17.4/checksums.txt) | 89 B | `other` |
+| [iSMC_Darwin_all.tar.gz](https://github.com/dkorunic/iSMC/releases/download/v0.17.4/iSMC_Darwin_all.tar.gz) | 3.3 MiB | `native/darwin/x64` |
 
 ## 改进这些数据
 
@@ -70,4 +70,4 @@ iSMC 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261010.yml` · 2026-10-10T06:50:52Z._
+_数据快照: `data/card/261011.yml` · 2026-10-11T06:50:29Z._

@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Apple SMC CLI — decode temperature, fans, battery, power, voltage and current on macOS
+Apple SMC CLI for macOS — temperature, fan, battery, power, voltage and current sensors on Intel and Apple Silicon (M1–M5), with table, JSON and InfluxDB output
 
 [![x-cmd/install — iSMC Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/iSMC.svg)](https://x-cmd.com/install/iSMC)
 
@@ -14,14 +14,14 @@ x install iSMC
 
 ## Code insight
 
-Total: **7,727** lines of code across **50** files in the top 5 languages.
+Total: **7,728** lines of code across **50** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 7,318 | 1,393 | 1,279 | 46 |
 | C | 212 | 101 | 62 | 1 |
 | CHeader | 92 | 21 | 19 | 1 |
-| Yaml | 62 | 0 | 12 | 1 |
+| Yaml | 63 | 0 | 12 | 1 |
 | Sh | 43 | 1 | 4 | 1 |
 
 ## Source
@@ -31,8 +31,8 @@ Total: **7,727** lines of code across **50** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.17.3` (2026-08-27)
-- **Last commit**: 2026-08-27
+- **Latest**: `v0.17.4` (2026-10-10)
+- **Last commit**: 2026-10-10
 - **Assets in release**: 2
 
 ## Popularity
@@ -41,25 +41,25 @@ Total: **7,727** lines of code across **50** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 0 · **Commits**: 162
+- **Releases**: 54 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 0 · **Commits**: 163
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-12 | 4 | 2 | 0 | 3 | 0 | 15 |
-| last180d | 2026-04-13 | 17 | 2 | 0 | 6 | 0 | 45 |
-| 360d | 2025-10-15 | 27 | 3 | 0 | 11 | 0 | 107 |
-| last720d | 2024-10-20 | 34 | 3 | 0 | 14 | 0 | 118 |
+| 30d | 2026-09-11 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-12 | 2 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-13 | 5 | 2 | 0 | 3 | 0 | 16 |
+| last180d | 2026-04-14 | 17 | 2 | 0 | 6 | 0 | 38 |
+| 360d | 2025-10-16 | 28 | 3 | 0 | 11 | 0 | 108 |
+| last720d | 2024-10-21 | 35 | 3 | 0 | 14 | 0 | 119 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/dkorunic/iSMC/releases/download/v0.17.3/checksums.txt) | 89 B | `other` |
-| [iSMC_Darwin_all.tar.gz](https://github.com/dkorunic/iSMC/releases/download/v0.17.3/iSMC_Darwin_all.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [checksums.txt](https://github.com/dkorunic/iSMC/releases/download/v0.17.4/checksums.txt) | 89 B | `other` |
+| [iSMC_Darwin_all.tar.gz](https://github.com/dkorunic/iSMC/releases/download/v0.17.4/iSMC_Darwin_all.tar.gz) | 3.3 MiB | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for iSMC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:50:52Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:50:29Z._
