@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/dkorunic/iSMC/releases/377815357",
-  "assets_url": "https://api.github.com/repos/dkorunic/iSMC/releases/377815357/assets",
-  "upload_url": "https://uploads.github.com/repos/dkorunic/iSMC/releases/377815357/assets{?name,label}",
-  "html_url": "https://github.com/dkorunic/iSMC/releases/tag/v0.17.3",
-  "id": 377815357,
+  "url": "https://api.github.com/repos/dkorunic/iSMC/releases/408857523",
+  "assets_url": "https://api.github.com/repos/dkorunic/iSMC/releases/408857523/assets",
+  "upload_url": "https://uploads.github.com/repos/dkorunic/iSMC/releases/408857523/assets{?name,label}",
+  "html_url": "https://github.com/dkorunic/iSMC/releases/tag/v0.17.4",
+  "id": 408857523,
   "author": {
     "login": "dkorunic",
     "id": 3041939,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDODN4cs84WhQE9",
-  "tag_name": "v0.17.3",
+  "node_id": "RE_kwDODN4cs84YXquz",
+  "tag_name": "v0.17.4",
   "target_commitish": "master",
-  "name": "v0.17.3",
+  "name": "v0.17.4",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-08-27T12:42:36Z",
-  "updated_at": "2026-08-27T12:44:46Z",
-  "published_at": "2026-08-27T12:44:46Z",
+  "created_at": "2026-10-10T09:58:56Z",
+  "updated_at": "2026-10-10T09:59:32Z",
+  "published_at": "2026-10-10T09:59:32Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/dkorunic/iSMC/releases/assets/532295102",
-      "id": 532295102,
-      "node_id": "RA_kwDODN4cs84fui2-",
+      "url": "https://api.github.com/repos/dkorunic/iSMC/releases/assets/627608073",
+      "id": 627608073,
+      "node_id": "RA_kwDODN4cs84laIoJ",
       "name": "checksums.txt",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "text/plain; charset=utf-8",
       "state": "uploaded",
       "size": 89,
-      "digest": "sha256:58e4f0d1bb6c189f418bd68c8deb51bf18dacb18011c42648abac81dbf52dd1a",
-      "download_count": 50,
-      "created_at": "2026-08-27T12:44:45Z",
-      "updated_at": "2026-08-27T12:44:45Z",
-      "browser_download_url": "https://github.com/dkorunic/iSMC/releases/download/v0.17.3/checksums.txt"
+      "digest": "sha256:74478ff86a27d87e21a424ab3a19c347495f8e20890f5b4245c9c4f79cc42732",
+      "download_count": 1,
+      "created_at": "2026-10-10T09:59:30Z",
+      "updated_at": "2026-10-10T09:59:30Z",
+      "browser_download_url": "https://github.com/dkorunic/iSMC/releases/download/v0.17.4/checksums.txt"
     },
     {
-      "url": "https://api.github.com/repos/dkorunic/iSMC/releases/assets/532295101",
-      "id": 532295101,
-      "node_id": "RA_kwDODN4cs84fui29",
+      "url": "https://api.github.com/repos/dkorunic/iSMC/releases/assets/627608072",
+      "id": 627608072,
+      "node_id": "RA_kwDODN4cs84laIoI",
       "name": "iSMC_Darwin_all.tar.gz",
       "label": "",
       "uploader": {
@@ -101,15 +101,27 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 3424021,
-      "digest": "sha256:26731a55da863c64f780304e30ba7e5045e6c5f7997739ebe11bd4892b4e6958",
-      "download_count": 666,
-      "created_at": "2026-08-27T12:44:45Z",
-      "updated_at": "2026-08-27T12:44:45Z",
-      "browser_download_url": "https://github.com/dkorunic/iSMC/releases/download/v0.17.3/iSMC_Darwin_all.tar.gz"
+      "size": 3451186,
+      "digest": "sha256:d5c9bf322733550cdd81a32dc338c5cc7f5156edeb65c9c938635757bc797331",
+      "download_count": 28,
+      "created_at": "2026-10-10T09:59:30Z",
+      "updated_at": "2026-10-10T09:59:31Z",
+      "browser_download_url": "https://github.com/dkorunic/iSMC/releases/download/v0.17.4/iSMC_Darwin_all.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/dkorunic/iSMC/tarball/v0.17.3",
-  "zipball_url": "https://api.github.com/repos/dkorunic/iSMC/zipball/v0.17.3",
-  "body": "## Changelog\n* 039c47424658f8bab5434540921a6ceb6846809e Update deps and star chart.\n* db76170a7ede0386fd10143b2e8f6c5c127188aa chore(deps): bump to Go 1.27, update testify and go-runewidth\n* 6b107a39b5759fc9ac510291dff0f6f13e61b388 fix(sensors): drop M5 register aliases, map three live probes\n* b66066870cdee5f9598a48e1bdde80dbf27b70e0 reports: add second M5 Pro dump (Mac17,x, near-idle)\n\n"
+  "tarball_url": "https://api.github.com/repos/dkorunic/iSMC/tarball/v0.17.4",
+  "zipball_url": "https://api.github.com/repos/dkorunic/iSMC/zipball/v0.17.4",
+  "body": "## Changelog\n* d8027391e0856e8f72cd49b9b95ca797d661f537 chore(deps): update sortorder, x/sys, x/text; run go fix in fmt task\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/dkorunic/iSMC/releases/408857523/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 1,
+    "eyes": 0
+  }
 }
