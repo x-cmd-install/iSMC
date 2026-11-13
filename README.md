@@ -37,7 +37,7 @@ Total: **7,728** lines of code across **50** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 213 · **Forks**: 24 · **Open issues**: 30 · **Contributors**: 8
+- **Stars**: 214 · **Forks**: 24 · **Open issues**: 30 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,728** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-13 | 1 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-14 | 2 | 0 | 0 | 0 | 0 | 5 |
-| last180d | 2026-05-16 | 8 | 2 | 0 | 4 | 0 | 23 |
-| 360d | 2025-11-17 | 28 | 3 | 0 | 10 | 0 | 109 |
-| last720d | 2024-11-22 | 35 | 3 | 0 | 14 | 0 | 120 |
+| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-14 | 1 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-15 | 2 | 0 | 0 | 0 | 0 | 5 |
+| last180d | 2026-05-17 | 8 | 2 | 0 | 4 | 0 | 23 |
+| 360d | 2025-11-18 | 28 | 3 | 0 | 10 | 0 | 109 |
+| last720d | 2024-11-23 | 35 | 3 | 0 | 14 | 0 | 120 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for iSMC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:02:51Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:10:09Z._
