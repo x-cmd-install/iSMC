@@ -14,11 +14,11 @@ x install iSMC
 
 ## Code insight
 
-Total: **7,728** lines of code across **50** files in the top 5 languages.
+Total: **9,965** lines of code across **63** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 7,318 | 1,393 | 1,279 | 46 |
+| Go | 9,555 | 1,974 | 1,841 | 59 |
 | C | 212 | 101 | 62 | 1 |
 | CHeader | 92 | 21 | 19 | 1 |
 | Yaml | 63 | 0 | 12 | 1 |
@@ -31,8 +31,8 @@ Total: **7,728** lines of code across **50** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.17.4` (2026-10-10)
-- **Last commit**: 2026-11-09
+- **Latest**: `v0.18.2` (2026-11-13)
+- **Last commit**: 2026-11-13
 - **Assets in release**: 2
 
 ## Popularity
@@ -41,25 +41,25 @@ Total: **7,728** lines of code across **50** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 0 · **Commits**: 164
+- **Releases**: 57 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 0 · **Commits**: 195
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-14 | 1 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-15 | 2 | 0 | 0 | 0 | 0 | 5 |
-| last180d | 2026-05-17 | 8 | 2 | 0 | 4 | 0 | 23 |
-| 360d | 2025-11-18 | 28 | 3 | 0 | 10 | 0 | 109 |
-| last720d | 2024-11-23 | 35 | 3 | 0 | 14 | 0 | 120 |
+| 30d | 2026-10-15 | 3 | 0 | 0 | 0 | 0 | 32 |
+| last60d | 2026-09-15 | 4 | 0 | 0 | 0 | 0 | 33 |
+| 90d | 2026-08-16 | 5 | 0 | 0 | 0 | 0 | 36 |
+| last180d | 2026-05-18 | 11 | 2 | 0 | 4 | 0 | 54 |
+| 360d | 2025-11-19 | 31 | 3 | 0 | 10 | 0 | 140 |
+| last720d | 2024-11-24 | 38 | 3 | 0 | 14 | 0 | 151 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/dkorunic/iSMC/releases/download/v0.17.4/checksums.txt) | 89 B | `other` |
-| [iSMC_Darwin_all.tar.gz](https://github.com/dkorunic/iSMC/releases/download/v0.17.4/iSMC_Darwin_all.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [checksums.txt](https://github.com/dkorunic/iSMC/releases/download/v0.18.2/checksums.txt) | 89 B | `other` |
+| [iSMC_Darwin_all.tar.gz](https://github.com/dkorunic/iSMC/releases/download/v0.18.2/iSMC_Darwin_all.tar.gz) | 4.4 MiB | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for iSMC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:10:09Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:08:13Z._
