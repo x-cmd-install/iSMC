@@ -14,12 +14,12 @@ x install iSMC
 
 ## Code insight
 
-Total: **140,265** lines of code across **82** files in the top 5 languages.
+Total: **161,218** lines of code across **85** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 128,774 | 0 | 0 | 16 |
-| Go | 11,081 | 2,408 | 2,179 | 63 |
+| Json | 149,676 | 0 | 0 | 19 |
+| Go | 11,132 | 2,432 | 2,179 | 63 |
 | C | 212 | 101 | 62 | 1 |
 | CHeader | 92 | 21 | 19 | 1 |
 | Yaml | 63 | 0 | 12 | 1 |
@@ -41,18 +41,18 @@ Total: **140,265** lines of code across **82** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 1 · **Commits**: 246
+- **Releases**: 61 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 1 · **Commits**: 249
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 7 | 0 | 0 | 0 | 1 | 83 |
-| last60d | 2026-09-18 | 8 | 0 | 0 | 0 | 1 | 84 |
-| 90d | 2026-08-19 | 9 | 0 | 0 | 0 | 1 | 87 |
-| last180d | 2026-05-21 | 15 | 2 | 0 | 4 | 1 | 104 |
-| 360d | 2025-11-22 | 35 | 3 | 0 | 10 | 1 | 191 |
-| last720d | 2024-11-27 | 42 | 3 | 0 | 13 | 1 | 202 |
+| 30d | 2026-10-20 | 7 | 0 | 0 | 0 | 1 | 86 |
+| last60d | 2026-09-20 | 8 | 0 | 0 | 0 | 1 | 87 |
+| 90d | 2026-08-21 | 9 | 0 | 0 | 0 | 1 | 90 |
+| last180d | 2026-05-23 | 15 | 2 | 0 | 4 | 1 | 107 |
+| 360d | 2025-11-24 | 35 | 3 | 0 | 10 | 1 | 194 |
+| last720d | 2024-11-29 | 42 | 3 | 0 | 13 | 1 | 205 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for iSMC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T11:03:32Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:11:08Z._
