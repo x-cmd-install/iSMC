@@ -14,12 +14,12 @@ x install iSMC
 
 ## Code insight
 
-Total: **161,218** lines of code across **85** files in the top 5 languages.
+Total: **180,002** lines of code across **88** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 149,676 | 0 | 0 | 19 |
-| Go | 11,132 | 2,432 | 2,179 | 63 |
+| Json | 168,440 | 0 | 0 | 22 |
+| Go | 11,152 | 2,449 | 2,179 | 63 |
 | C | 212 | 101 | 62 | 1 |
 | CHeader | 92 | 21 | 19 | 1 |
 | Yaml | 63 | 0 | 12 | 1 |
@@ -31,35 +31,35 @@ Total: **161,218** lines of code across **85** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.18.6` (2026-11-16)
-- **Last commit**: 2026-11-17
+- **Latest**: `v0.18.8` (2026-11-22)
+- **Last commit**: 2026-11-22
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 214 · **Forks**: 24 · **Open issues**: 31 · **Contributors**: 8
+- **Stars**: 215 · **Forks**: 24 · **Open issues**: 31 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 1 · **Commits**: 249
+- **Releases**: 63 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 1 · **Commits**: 251
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 7 | 0 | 0 | 0 | 1 | 86 |
-| last60d | 2026-09-23 | 8 | 0 | 0 | 0 | 1 | 87 |
-| 90d | 2026-08-24 | 9 | 0 | 0 | 0 | 1 | 87 |
-| last180d | 2026-05-26 | 15 | 2 | 0 | 4 | 1 | 107 |
-| 360d | 2025-11-27 | 35 | 3 | 0 | 10 | 1 | 194 |
-| last720d | 2024-12-02 | 42 | 3 | 0 | 13 | 1 | 205 |
+| 30d | 2026-10-24 | 9 | 0 | 0 | 0 | 1 | 88 |
+| last60d | 2026-09-24 | 10 | 0 | 0 | 0 | 1 | 89 |
+| 90d | 2026-08-25 | 11 | 0 | 0 | 0 | 1 | 89 |
+| last180d | 2026-05-27 | 17 | 2 | 0 | 4 | 1 | 109 |
+| 360d | 2025-11-28 | 37 | 3 | 0 | 10 | 1 | 196 |
+| last720d | 2024-12-03 | 44 | 3 | 0 | 13 | 1 | 207 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/dkorunic/iSMC/releases/download/v0.18.6/checksums.txt) | 89 B | `other` |
-| [iSMC_Darwin_all.tar.gz](https://github.com/dkorunic/iSMC/releases/download/v0.18.6/iSMC_Darwin_all.tar.gz) | 4.6 MiB | `native/darwin/x64` |
+| [checksums.txt](https://github.com/dkorunic/iSMC/releases/download/v0.18.8/checksums.txt) | 89 B | `other` |
+| [iSMC_Darwin_all.tar.gz](https://github.com/dkorunic/iSMC/releases/download/v0.18.8/iSMC_Darwin_all.tar.gz) | 5.2 MiB | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for iSMC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:20:16Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:40:00Z._
