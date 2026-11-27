@@ -47,12 +47,12 @@ Total: **180,002** lines of code across **88** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 9 | 0 | 0 | 0 | 1 | 88 |
-| last60d | 2026-09-27 | 10 | 0 | 0 | 0 | 1 | 89 |
-| 90d | 2026-08-28 | 10 | 0 | 0 | 0 | 1 | 89 |
-| last180d | 2026-05-30 | 17 | 2 | 0 | 4 | 1 | 109 |
-| 360d | 2025-12-01 | 37 | 3 | 0 | 10 | 1 | 196 |
-| last720d | 2024-12-06 | 44 | 3 | 0 | 13 | 1 | 207 |
+| 30d | 2026-10-28 | 9 | 0 | 0 | 0 | 1 | 88 |
+| last60d | 2026-09-28 | 10 | 0 | 0 | 0 | 1 | 89 |
+| 90d | 2026-08-29 | 10 | 0 | 0 | 0 | 1 | 89 |
+| last180d | 2026-05-31 | 17 | 2 | 0 | 4 | 1 | 109 |
+| 360d | 2025-12-02 | 37 | 3 | 0 | 10 | 1 | 196 |
+| last720d | 2024-12-07 | 44 | 3 | 0 | 13 | 1 | 207 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for iSMC lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:07:01Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:18:16Z._
